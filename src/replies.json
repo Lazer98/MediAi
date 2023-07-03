@@ -1,0 +1,341 @@
+{
+    "intents": [
+        {
+            "tag": "-1",
+            "patterns": [
+                "orthopedia",
+                "orthopedia",
+                "orthopedia"
+            ],
+            "responses": [
+                "orthopedia question 1"
+            ]
+        },
+        {
+            "tag": "-1",
+            "patterns": [
+                "nose,neck,ears",
+                "nose,neck,ears",
+                "nose,neck,ears"
+            ],
+            "responses": [
+                "nose,neck,ears question 1"
+            ]
+        },
+        {
+            "tag": "-1",
+            "patterns": [
+                "neurologia",
+                "neurologia",
+                "neurologia"
+            ],
+            "responses": [
+                "neurologia question 1"
+            ]
+        },
+        {
+            "tag": "-1",
+            "patterns": [
+                "digestion",
+                "toilet"
+            ],
+            "responses": [
+                "digestion question 1"
+            ]
+        },
+        {
+            "tag": "-1",
+            "patterns": [
+                "eyes",
+                "eye"
+            ],
+            "responses": [
+                "eyes question 1"
+            ]
+        },
+        {
+            "tag": "-1",
+            "patterns": [
+                "sexual organ",
+                "intimate"
+            ],
+            "responses": [
+                "sexual organ question 1"
+            ]
+        },
+        {
+            "tag": "-1",
+            "patterns": [
+                "other",
+                "none of the above"
+             ],
+            "responses": [
+                "other question 1"
+            ]
+        },
+        {
+            "tag": "0.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(0.2)"
+            ]
+        },
+        {
+            "tag": "0.3.1",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(0.3)"
+            ]
+        },
+        {
+            "tag": "0.3.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(0.3)"
+            ]
+        },
+        {
+            "tag": "0.3.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(0.3)"
+            ]
+        },
+        {
+            "tag": "0.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "Do you have any other complaints?"
+            ]
+        },
+        {
+            "tag": "1.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(1.2)"
+            ]
+        },
+        {
+            "tag": "1.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(1.3)"
+            ]
+        },
+        {
+            "tag": "1.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "Do you have any other complaints?"
+            ]
+        },
+        {
+            "tag": "2.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(2.2)"
+            ]
+        },
+        {
+            "tag": "2.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(2.3)"
+            ]
+        },
+        {
+            "tag": "2.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "Do you have any other complaints?"
+            ]
+        },
+        {
+            "tag": "3.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(3.2)"
+            ]
+        },
+        {
+            "tag": "3.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(3.3)"
+            ]
+        },
+        {
+            "tag": "3.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "Do you have any other complaints?"
+            ]
+        },
+        {
+            "tag": "4.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(4.2)"
+            ]
+        },
+        {
+            "tag": "4.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(4.3)"
+            ]
+        },
+        {
+            "tag": "4.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(4.4)"
+            ]
+        },
+        {
+            "tag": "5.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(5.2)"
+            ]
+        },
+        {
+            "tag": "5.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(5.3)"
+            ]
+        },
+        {
+            "tag": "5.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "Do you have any other complaints?"
+            ]
+        },
+        {
+            "tag": "6.2",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(6.2)"
+            ]
+        },
+        {
+            "tag": "6.3",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "next question(6.3)"
+            ]
+        },
+        {
+            "tag": "6.4",
+            "patterns": [
+                "answer 1",
+                "answer 2",
+                "answer 3"
+             ],
+            "responses": [
+                "Do you have any other complaints?"
+            ]
+        },
+        {
+            "tag": "ReturnToTheBeginning",
+            "patterns": [
+                "Yes",
+                "No"
+             ],
+            "responses": [
+                "..."
+            ]
+        }
+        
+    ]
+}
